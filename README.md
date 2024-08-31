@@ -28,9 +28,9 @@ The dataset is sourced from Kaggle’s “[Sales Conversion Optimization](https:
 
 ### Exploratory Data Analysis (EDA)
 - **Univariate Analysis:** Analyzed the distribution of key variables such as age, gender, impressions, clicks, and conversions.
-  <img src="https://github.com/Anokhi-hirsch/A-B-testing-on-Ad-campaigns/blob/main/visualization/univariate%20distribution.png" alt="Univariate Distribution" width="800"/>
+  <img src="https://github.com/Anokhi-hirsch/A-B-testing-on-Ad-campaigns/blob/main/visualization/univariate%20distribution.png" alt="Univariate Distribution" width="650"/>
 - **Multivariate Analysis:** Conducted a correlation analysis using a heatmap to explore the relationships between different variables to uncover additional insights.
-  <img src="https://github.com/Anokhi-hirsch/A-B-testing-on-Ad-campaigns/blob/main/visualization/multivariate%20analysis%20heatmap.png" alt="Multivariate Analysis Heatmap" width="800"/>
+  <img src="https://github.com/Anokhi-hirsch/A-B-testing-on-Ad-campaigns/blob/main/visualization/multivariate%20analysis%20heatmap.png" alt="Multivariate Analysis Heatmap" width="650"/>
 
 ### A/B Testing  
 Purpose: The main goal of A/B testing here is to determine whether the observed differences between the ad campaigns (in terms of metrics like Conversion Rate, Click-Through Rate, and Cost Per Click) are statistically significant or simply due to chance.   
