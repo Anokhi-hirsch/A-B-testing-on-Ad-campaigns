@@ -64,4 +64,4 @@ In conclusion, the project successfully identified significant differences betwe
 - **Key Metrics:** Conversion Rate, Click-Through Rate, Cost per Click
 - **Statistical Tests:** Shapiro-Wilk Test, Mann-Whitney U Test
 
-Explore [the notebook] to see the full analysis.
+Explore [the notebook](https://github.com/Anokhi-hirsch/A-B-testing-on-Ad-campaigns/blob/main/ab%20testing%20in%20digital%20marketing.ipynb) to see the full analysis.
