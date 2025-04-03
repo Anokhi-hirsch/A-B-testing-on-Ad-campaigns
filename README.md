@@ -9,7 +9,7 @@ This project investigates the effectiveness of three different Facebook ad campa
 **Hypothesis:** There is a statistically significant difference in conversion rates between the campaigns.
 
 ## Data Source
-The dataset is sourced from Kaggle’s “[Sales Conversion Optimization](https://www.kaggle.com/datasets/loveall/clicks-conversion-tracking/data)”.
+The dataset is sourced from Kaggle.
 
 ## Methodology
 
